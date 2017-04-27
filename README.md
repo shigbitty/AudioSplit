@@ -1,2 +1,2 @@
 # AudioSplit
-Split the audio from different programs through different devices. First project.
+A digital soundcard application to allow applications to send audio to different outputs.
